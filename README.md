@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 Code from my B.Sc. thesis in Computer Science and Engineering at BRAC University.
-The thesis received a mark of **97.9/100**.
+The thesis received a mark of **98/100**.
 
 ## Status
 
