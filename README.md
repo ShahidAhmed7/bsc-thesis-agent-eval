@@ -2,9 +2,11 @@
 
 [![Status](https://img.shields.io/badge/Paper-Under%20review%20at%20ARR-darkblue.svg)](#status)
 [![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#status)
+[![Thesis mark](https://img.shields.io/badge/Thesis%20mark-97.9%2F100-brightgreen.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 Code from my B.Sc. thesis in Computer Science and Engineering at BRAC University.
+The thesis received a mark of **97.9/100**.
 
 ## Status
 
