@@ -40,7 +40,7 @@ It runs agents on the InjecAgent and AgentDojo benchmarks, labels each trajector
 
 ## Authors
 
-Farhan Zarif, Kazi Shahid Ahmed Galib, Synthia Akter Promi, Shabnam Sharmin Tarin, Ariyan Hossain, Sadif Ahmed, Farig Yousuf Sadeque
+Farhan Zarif, Kazi Shahid Ahmed Galib, Synthia Akter Promi, Shabnam Sharmin Tarin, Ariyan Hossain, Sadif Ahmed, Dr. Farig Yousuf Sadeque
 
 Department of Computer Science and Engineering, BRAC University
 
