@@ -1,0 +1,29 @@
+# Secrets
+providers.json
+*.key
+.env
+*.env
+
+# Large data (keep only the README)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.synctex.gz
