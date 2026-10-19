@@ -1,0 +1,14 @@
+{
+  "_comment": "Copy this file to providers.json and fill in your own OpenAI-compatible endpoint and API key. providers.json is git-ignored.",
+  "providers": [
+    {
+      "name": "provider_1",
+      "base_url": "https://YOUR-PROVIDER.example/v1",
+      "model": "YOUR-MODEL-ID-FOR-DEEPSEEK-V4.1-FLASH",
+      "api_key": "YOUR_API_KEY",
+      "workers": 8,
+      "max_rpm": 45,
+      "enabled": true
+    }
+  ]
+}

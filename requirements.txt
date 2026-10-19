@@ -1,0 +1,15 @@
+# Benchmarks and serving
+agentdojo
+vllm
+# Judge and API clients
+openai
+together
+requests
+tenacity
+pydantic
+# Analysis
+scipy
+pandas
+pyarrow
+nltk
+rich

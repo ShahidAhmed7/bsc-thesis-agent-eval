@@ -4,9 +4,9 @@ providers.json
 .env
 *.env
 
-# Large data (keep only the README)
-data/*
-!data/README.md
+# Large raw data (not stored in git)
+raw_results/
+judgments_v3/
 
 # Python
 __pycache__/
