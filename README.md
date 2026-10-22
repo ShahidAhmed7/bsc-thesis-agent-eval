@@ -1,7 +1,7 @@
 # B.Sc. Thesis · LLM Agent Evaluation
 
 [![Status](https://img.shields.io/badge/Paper-Under%20review%20at%20ARR-darkblue.svg)](#status)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#status)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.23254-b31b1b.svg)](https://arxiv.org/abs/2610.23254)
 [![Thesis mark](https://img.shields.io/badge/Thesis%20mark-98%2F100-brightgreen.svg)](#)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB.svg)](requirements.txt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
@@ -12,10 +12,7 @@ The thesis received a mark of **98/100**.
 ## Status
 
 - **Paper:** under review at ACL Rolling Review (ARR), October 2026 cycle.
-- **Preprint:** arXiv link coming soon.
-<!-- After arXiv announces the paper, replace the line above with:
-- **Preprint:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
-and point the arXiv badge at the same link. -->
+- **Preprint:** [*Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents*](https://arxiv.org/abs/2610.23254) (arXiv:2610.23254)
 
 ## Overview
 
@@ -96,7 +93,19 @@ Department of Computer Science and Engineering, BRAC University
 
 ## Citation
 
-A BibTeX entry will be added once the arXiv ID is assigned.
+If you use this code or data, please cite:
+
+```bibtex
+@misc{zarif2026ignored,
+  title         = {Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents},
+  author        = {Farhan Zarif and Kazi Shahid Ahmed Galib and Synthia Akter Promi and Shabnam Sharmin Tarin and Ariyan Hossain and Sadif Ahmed and Farig Yousuf Sadeque},
+  year          = {2026},
+  eprint        = {2610.23254},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2610.23254}
+}
+```
 
 ## License
 
